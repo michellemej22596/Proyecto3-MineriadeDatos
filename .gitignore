@@ -2,7 +2,7 @@
 # Archivos de datos
 defunciones.csv
 defunciones_clean.csv
-simple_causes.csv
+defunciones_simplified.csv
 
 # Entorno virtual
 venv/
