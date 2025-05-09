@@ -22,4 +22,3 @@ def read_sav_files():
 
 # Call the function
 read_sav_files()
-
